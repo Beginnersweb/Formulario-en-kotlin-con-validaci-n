@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAcent">#33beff</color>
+
+    //color del boton
+    <color name="colorBtn">#33beff</color> <!-- Color normal -->
+    <color name="colorBtnPress">#2bd205</color> <!-- Color cuando se presiona -->
+</resources>
